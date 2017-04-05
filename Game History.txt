@@ -60,7 +60,7 @@ Culture Victory | EXP: 25
 **2:** @Johnson#7529 `Wins: 4 | Losses: 1 | Level: 1 | EXP: 4 | League EXP: 0`
 **3:** @Soliz#5131 `Wins: 3 | Losses: 2 | Level: 1 | EXP: 3`
 **4:** @URTTA999#9844 `Wins: 2 | Losses: 3 | Level: 1 | EXP: 2 | League EXP: 10`
-    •*LifeTime: 10 League EXP (Recruited a Player)*
+    •*LifeTime Quest: 10 League EXP (Recruited a Player)*
 **5:** @rudik#8510 `Wins: 1 | Losses: 4 | Level: 1 | EXP: 1`
 **6:** @Kévin#4101 `Wins: 0 | Losses: 5 | Level: 1 | EXP: 0`
     •*@Quitter Role Applied*
@@ -310,16 +310,16 @@ Culture Victory | EXP: 25
 **1st Team:**
     @© • Song Adieu#6276 `Wins: 20 | Losses: 20 | Level: 5 | EXP: 30`
     @Kidna#1753 `Wins: 12 | Losses: 4 | Level: 4 | EXP: 15 | League EXP: 5`
-        •*LifeTime: 5 League EXP (CivLeague Mod)*
+        •*LifeTime Quest: 5 League EXP (CivLeague Mod)*
     @DasBoot89#3999 `Wins: 9 | Losses: 5 | Level: 3 | EXP: 12 | League EXP: 11`
-        •*LifeTime: 5 League EXP (CivLeague Mod)*
+        •*LifeTime Quest: 5 League EXP (CivLeague Mod)*
 **2nd Team:**
     @r3aper#7580 `Wins: 0 | Losses: 3 | Level: 0 | EXP: 0 | League EXP: 11`
-        •*LifeTime: 5 League EXP (CivLeague Mod)*
+        •*LifeTime Quest: 5 League EXP (CivLeague Mod)*
     @asura#3152 `Wins: 28 | Losses: 9 | Level: 6 | EXP: 53 | League EXP: 13`
-        •*LifeTime: 5 League EXP (CivLeague Mod)*
+        •*LifeTime Quest: 5 League EXP (CivLeague Mod)*
     @WineTime#8812 `Wins: 10 | Losses: 17 | Level: 3 | EXP: 10 | League EXP: 13`
-        •*LifeTime: 5 League EXP (CivLeague Mod)*
+        •*LifeTime Quest: 5 League EXP (CivLeague Mod)*
 
 •|• **__Game 32__** •|•
 **1st Team:**
@@ -506,7 +506,7 @@ Culture Victory | EXP: 25
 •|• **__Game 52__** •|•
 **1:** @iRedPanda#9109 `Wins: 11 | Losses: 2 | Level: 3 | EXP: 14`
 **2:** @Face66#5289 `Wins: 32 | Losses: 19 | Level: 5 | EXP: 39 | League EXP: 13`
-    •*LifeTime: 10 League EXP (Recruited a Player)*
+    •*LifeTime Quest: 10 League EXP (Recruited a Player)*
 **3:** @TheJunkyardTitan#7240 `Wins: 1 | Losses: 2 | Level: 1 | EXP: 1`
 **4:** @HobbitX#3822 `Wins: 0 | Losses: 3 | Level: 1 | EXP: 0`
 
@@ -529,7 +529,7 @@ Culture Victory | EXP: 25
 
 •|• **__Game 55__** •|•
 **1:** @Negi#1116 `Wins: 5 | Losses: 0 | Level: 3 | EXP: 10 | League EXP: 10`
-    •*LifeTime: 10 League EXP (Faith Victory).*
+    •*LifeTime Quest: 10 League EXP (Faith Victory).*
 **2:** @Swarrley#9086 `Wins: 9 | Losses: 1 | Level: 3 | EXP: 14 | League EXP: 7`
 **3:** @hannah#6629 `Wins: 12 | Losses: 5 | Level: 3 | EXP: 14`
 **4:** @Jackie Chan#8475 `Wins: 5 | Losses: 5 | Level: 2 | EXP: 5`
@@ -588,7 +588,7 @@ Culture Victory | EXP: 25
 **4:** @SafARI#6428 `Wins: 4 | Losses: 3 | Level: 2 | EXP: 4`
     •*Level Up!*
 **5:** @白甲#0681 `Wins: 22 | Losses: 14 | Level: 5 | EXP: 25 | League EXP: 10`
-    •*LifeTime: 10 League EXP (Recruited a Player)*
+    •*LifeTime Quest: 10 League EXP (Recruited a Player)*
 **6:** @Nosleep#7644 `Wins: 8 | Losses: 11 | Level: 2 | EXP: 8`
 **7:** @Don DiZZy#3971 `Wins: 9 | Losses: 10 | Level: 4 | EXP: 16`
 **8:** @Jackie Chan#8475 `Wins: 12 | Losses: 12 | Level: 4 | EXP: 19`
@@ -614,16 +614,16 @@ Culture Victory | EXP: 25
 
 •|• **__Game 64__** •|•
 **1:** @lacuscryne#1882 `Wins: 14 | Losses: 1 | Level: 4 | EXP: 24 | League EXP: 5`
-    •*LifeTime: 5 League EXP (CivLeague Mod)*
+    •*LifeTime Quest: 5 League EXP (CivLeague Mod)*
 **2:** @LithiumToast#7550 `Wins: 5 | Losses: 6 | Level: 2 | EXP: 5 | League EXP: 5`
-    •*LifeTime: 5 League EXP (CivLeague Mod)*
+    •*LifeTime Quest: 5 League EXP (CivLeague Mod)*
 **3:** @© • Song Adieu#6276 `Wins: 55 | Losses: 30 | Level: 7 | EXP: 85`
 **4:** @InfernoArcine#1189 `Wins: 2 | Losses: 3 | Level: 1 | EXP: 2 | League EXP: 5`
-    •*LifeTime: 5 League EXP (CivLeague Mod)*
+    •*LifeTime Quest: 5 League EXP (CivLeague Mod)*
 **5:** @JackoV#4908 `Wins: 11 | Losses: 19 | Level: 3 | EXP: 11 | League EXP: 5`
-    •*LifeTime: 5 League EXP (CivLeague Mod)*
+    •*LifeTime Quest: 5 League EXP (CivLeague Mod)*
 **6:** @ArtVandelay#3426 `Wins: 0 | Losses: 5 | Level: 1 | EXP: 0 | League EXP: 5`
-    •*LifeTime: 5 League EXP (CivLeague Mod)*
+    •*LifeTime Quest: 5 League EXP (CivLeague Mod)*
     •*Had to leave the game for work, didn't realize Games Last this long!* **(:**
 
 •|• **__Game 65__** •|•
@@ -632,7 +632,7 @@ Culture Victory | EXP: 25
 **3 and 4 | Tied**
     @iRedPanda#9109 `Wins: 25 | Losses: 6 | Level: 5 | EXP: 35`
     @Angry Scientist#6597 `Wins: 2 | Losses: 2 | Level: 1 | EXP: 2 | League EXP: 10`
-        •*LifeTime: 10 League EXP (Recruited a Player)*
+        •*LifeTime Quest: 10 League EXP (Recruited a Player)*
 **5:** @Aaron#3166 `Wins: 1 | Losses: 4 | Level: 1 | EXP: 1`
 **6:** @Seth#5468 `Wins: 2 | Losses: 8 | Level: 1 | EXP: 2`
 
@@ -661,7 +661,7 @@ Culture Victory | EXP: 25
 **3:** @Swaty#4709 `Wins: 2 | Losses: 7 | Level: 1 | EXP: 2`
 **4:** @GekonS#8906 `Wins: 8 | Losses: 6 | Level: 2 | EXP: 8 | League EXP: 3`
 **5:** @Jacker#9445 `Wins: 16 | Losses: 23 | Level: 5 | EXP: 25 | League EXP: 30`
-    •*LifeTime: 10 League EXP (Recruited a Player)*
+    •*LifeTime Quest: 10 League EXP (Recruited a Player)*
 
 •|• **__Game 69__** •|•
 **1:** @© • Song Adieu#6276 `Wins: 60 | Losses: 30 | Level: 7 | EXP: 95`
@@ -787,7 +787,8 @@ Culture Victory | EXP: 25
 **1:** @Justifier#7095 `Wins: 34 | Losses: 4 | Level: 6 | EXP: 57 | League EXP: 6`
 **2:** @白甲#0681 `Wins: 32 | Losses: 18 | Level: 5 | EXP: 35 | League EXP: 10`
 **3:** @lacuscryne#1882 `Wins: 29 | Losses: 6 | Level: 6 | EXP: 51 | League EXP: 5`
-**4:** @InfernoArcine#1189 `Wins: 8 | Losses: 10 | Level: 2 | EXP: 8 | League EXP: 9`
+**4:** @InfernoArcine#1189 `Wins: 8 | Losses: 10 | Level: 2 | EXP: 8 | League EXP: 12`
+    •*+3 from Daily Quest*
 **5:** @Aaron#3166 `Wins: 8 | Losses: 16 | Level: 2 | EXP: 8 | League EXP: 0`
 **6:** @LordofWar#xxxx `Wins: 0 | Losses: 5 | Level: 0 | EXP: 0 | League EXP: 0`
 
@@ -827,7 +828,7 @@ Culture Victory | EXP: 25
 
 •|• **__Game 84__** •|•
 **1:** @Negi#1116 `Wins: 38 | Losses: 0 | Level: 7 | EXP: 76 | League EXP: 45`
-    •*LifeTime: 10 League EXP (Recruited a Player)*
+    •*LifeTime Quest: 10 League EXP (Recruited a Player)*
 **2:** @Splinter#1968  `Wins: 7 | Losses: 6 | Level: 2 | EXP: 7 | League EXP: 0`
     •*Level Up!*
 **3:** @ruphone#3100 `Wins: 19 | Losses: 9 | Level: 4 | EXP: 22 | League EXP: 0`
@@ -1067,7 +1068,7 @@ Culture Victory | EXP: 25
 
 •|• **__Game 104__** •|•
 **1:** @Negi#1116 `Wins: 54 | Losses: 0 | Level: 8 | EXP: 108 | League EXP: 85`
-    •*Science Victory: 15 League EXP*
+    •*Victory Quest: 15 League EXP (Science)*
 **2:** @Snow2232#1247 `Wins: 4 | Losses: 4 | Level: 2 | EXP: 4 | League EXP: 0`
     •*Level Up!*
 **3:** @Shirrow#4858 `Wins: 12 | Losses: 12 | Level: 3 | EXP: 12 | League EXP: 0`
@@ -1229,7 +1230,8 @@ Culture Victory | EXP: 25
 **4:** @Bubbles#6428 `Wins: 17 | Losses: 10 | Level: 4 | EXP: 22 | League EXP: 3`
 **5:** @Eilrahc#3424 `Wins: 3 | Losses: 8 | Level: 1 | EXP: 3 | League EXP: 0`
 **6:** @Arki#6925 `Wins: 12 | Losses: 45 | Level: 3 | EXP: 12 | League EXP: 0`
-**7:** @The green pickle#3423 `Wins: 0 | Losses: 6 | Level: 0 | EXP: 0 | League EXP: 0`
+**7:** @The green pickle#3423 `Wins: 0 | Losses: 6 | Level: 0 | EXP: 0 | League EXP: 5`
+    •*LifeTime Quest: Attached Steam Profile (In with the In)*
 
 •|• **__Game 119__** •|•
 **1 and 2 | Tied**
@@ -1242,7 +1244,8 @@ Culture Victory | EXP: 25
 **4:** @BKrenz#4028 `Wins: 2 | Losses: 3 | Level: 1 | EXP: 2 | League EXP: 3`
     •*Level Up!*
     •*+3 from Daily Quest*
-**5:** @Zenny#9704 `Wins: 1 | Losses: 4 | Level: 1 | EXP: 1 | League EXP: 0`
+**5:** @Zenny#9704 `Wins: 1 | Losses: 4 | Level: 1 | EXP: 1 | League EXP: 3`
+    •*+3 from Daily Quest*
     •*Level Up!*
 **6:** @(RUY)DIscoNipple69#1080 `Wins: 1 | Losses: 8 | Level: 1 | EXP: 1 | League EXP: 0`
 
@@ -1259,52 +1262,108 @@ Culture Victory | EXP: 25
 **6:** @GekonS#8906 `Wins: 8 | Losses: 11 | Level: 2 | EXP: 8 | League EXP: 3`
     •*@Quitter Role Applied*
 
-**NULL**
-•|• **__Game 121__** •|•
-**1:** @JackoV#4908 `Wins: 23 | Losses: 21 | Level: 4 | EXP: 24 | League EXP: 5`
-    •*Level Up!*
-**2 and 3 | Tied**
-    @Asiatlek#9926 `Wins: 34 | Losses: 14 | Level: 6 | EXP: 60 | League EXP: 20`
-    @Mr, Krigan#2451 `Wins: 19 | Losses: 33 | Level: 4 | EXP: 19 | League EXP: 3`
-**4:** @WaikyVic#8057 `Wins: 6 | Losses: 4 | Level: 2 | EXP: 6 | League EXP: 0`
-    •*Level Up!*
-**5 and 6 | Tied**
-    @thekingpin#0976 `Wins: 5 | Losses: 20 | Level: 2 | EXP: 5 | League EXP: 0`
-        •*@Quitter Role Applied*
-    @Mathius#0492 `Wins: 0 | Losses: 4 | Level: 0 | EXP: 0 | League EXP: 0`
-        •*@Quitter Role Applied*
-**NULL**
-
 •|• **__Game 121__** •|•
 **1:** @Fury Golem#1976 `Wins: 12 | Losses: 2 | Level: 4 | EXP: 17 | League EXP: 0`
     •*Level Up!*
 **2:** @Justifier#7095 `Wins: 55 | Losses: 5 | Level: 7 | EXP: 95`
 **3:** @iceman#0579 `Wins: 10 | Losses: 20 | Level: 3 | EXP: 13 | League EXP: 0`
-**4:** @allfalldown#3126 `Wins: 25 | Losses: 45 | Level: 5 | EXP: 25 | League EXP: 3`
+**4:** @allfalldown#3126 `Wins: 25 | Losses: 45 | Level: 5 | EXP: 25 | League EXP: 6`
     •*Level Up!*
+    •*+3 from Daily Quest*
 **5:** @groove#8337 `Wins: 18 | Losses: 17 | Level: 4 | EXP: 18 | League EXP: 0`
 **6**: @DERPIES THE DELFINO#0919 `Wins: 0 | Losses: 5 | Level: 0 | EXP: 0 | League EXP: 0`
 
 •|• **__Game 122__** •|•
-**1:** @lacuscryne#1882 
-**2:** @groove#8337 
-**3:** @CoonCon09#3548 
-**4:** @(RUY)DIscoNipple69#1080 
-**5:** @Kalosis#1237 
-**6:** @Mr, Krigan#2451
+**1:** @lacuscryne#1882 `Wins: 50 | Losses: 6 | Level: 7 | EXP: 93 | League EXP: 8`
+    •*+3 from Daily Quest*
+**2:** @groove#8337 `Wins: 22 | Losses: 18 | Level: 4 | EXP: 22 | League EXP: 0`
+**3:** @CoonCon09#3548 `Wins: 12 | Losses: 14 | Level: 3 | EXP: 12 | League EXP: 0`
+**4:** @(RUY)DIscoNipple69#1080 `Wins: 3 | Losses: 11 | Level: 1 | EXP: 1 | League EXP: 0`
+**5:** @Kalosis#1237 `Wins: 9 | Losses: 10 | Level: 3 | EXP: 9 | League EXP: 0`
+    •*Level Up!*
+**6:** @Mr, Krigan#2451 `Wins: 19 | Losses: 38 | Level: 4 | EXP: 19 | League EXP: 3`
 
 •|• **__Game 123__** •|•
-**1:** @Serb#2543 
-**2:** @FluffMaster30#5369 
-**3:** @Don DiZZy#3971 
-**4:** @DasBoot89#3999 
-**5:** @BetterTitles#2651 
-**6:** @carl_nerd#5988 
+**1:**@Don DiZZy#3971 `Wins: 25 | Losses: 24 | Level: 5 | EXP: 37 | League EXP: 6`
+    •*+3 from Daily Quest*
+**2 and 3 | Tied**
+    @Serb#2543 `Wins: 11 | Losses: 3 | Level: 3 | EXP: 11 | League EXP: 6`
+        •*+3 from Daily Quest*
+        •*Level Up!*
+    @FluffMaster30#5369 `Wins: 3 | Losses: 1 | Level: 1 | EXP: 3 | League EXP: 3`
+        •*+3 from Daily Quest*
+        •*Level Up!*
+**4:** @DasBoot89#3999 `Wins: 25 | Losses: 16 | Level: 5 | EXP: 28 | League EXP: 14`
+    •*+3 from Daily Quest*
+**5:** @BetterTitles#2651 `Wins: 1 | Losses: 4 | Level: 1 | EXP: 1 | League EXP: 0`
+    •*Level Up!*
+**6:** @carl_nerd#5988 `Wins: 0 | Losses: 5 | Level: 0 | EXP: 0 | League EXP: 0`
 
 •|• **__Game 124__** •|•
-**1:** @Justifier#7095 
-**2:** @lolitsjack#6921
-**3:** @Dobby#4506
-**4:** @Dolla Bill#4821 
-**5:** @Kylar Stern#1926 
-**6:** @Arki#6925
+**1:** @Justifier#7095 `Wins: 60 | Losses: 5 | Level: 8 | EXP: 105`
+    •*Level Up!*
+**2:** @lolitsjack#6921 `Wins: 5 | Losses: 4 | Level: 2 | EXP: 5 | League EXP: 0`
+    •*Level Up!*
+**3:** @Dobby#4506 `Wins: 5 | Losses: 5 | Level: 2 | EXP: 5 | League EXP: 0`
+    •*Level Up!*
+**4:** @Dolla Bill#4821 `Wins: 4 | Losses: 6 | Level: 2 | EXP: 4 | League EXP: 0`
+    •*Level Up!*
+**5:** @Kylar Stern#1926 `Wins: 7 | Losses: 9 | Level: 3 | EXP: 12 | League EXP: 0`
+**6:** @Arki#6925 `Wins: 17 | Losses: 50 | Level: 4 | EXP: 22 | League EXP: 0`
+
+•|• **__Game 125__** •|•
+**1:** @Negi#1116 `Wins: 69 | Losses: 0 | Level: 8 | EXP: 138 | League EXP: 111`
+    •*+3 from Daily Quest*
+    •*Victory Quest: +20 League EXP (Domination)*
+**2, 3 and 4 | Tied**
+    @allfalldown#3126 `Wins: 27 | Losses: 46 | Level: 5 | EXP: 27 | League EXP: 6`
+    @Hallec#1002 `Wins: 21 | Losses: 11 | Level: 5 | EXP: 31 | League EXP: 0`
+    @Jackie Chan#8475 `Wins: 55 | Losses: 33 | Level: 7 | EXP: 79 | League EXP: 3`
+**5:** @白甲#0681 `Wins: 50 | Losses: 30 | Level: 6 | EXP: 63 | League EXP: 10`
+**6:** @Archi#8291 `Wins: 0 | Losses: 5 | Level: 0 | EXP: 0 | League EXP: 0`
+
+•|• **__Game 126__** •|•
+**1:** @YUE#7803 `Wins: 4 | Losses: 0 | Level: 2 | EXP: 8 | League EXP: 7`
+    •*Level Up!*
+    •*League EXP: 7 (Won 1st Game!)*
+**2:** @© • Song Adieu#6276 `Wins: 71 | Losses: 32 | Level: 8 | EXP: 111`
+**3:** @Helioliveira#4641 `Wins: 2 | Losses: 2 | Level: 1 | EXP: 2 | League EXP: 0`
+    •*Level Up!*
+**4:** @dominate#2466 `Wins: 1 | Losses: 3 | Level: 1 | EXP: 1 | League EXP: 0`
+    •*Level Up!*
+**5:** @astroknutz#7178 `Wins: 0 | Losses: 4 | Level: 0 | EXP: 0 | League EXP: 0`
+
+•|• **__Game 127__** •|•
+**1:** @lacuscryne#1882 
+**2:** @Gaelic#2034 
+**3:** @白甲#0681 
+**4:** @Arki#6925 
+**5:** @InfernoArcine#1189 
+**6:** @Eilrahc#3424 
+**7:** @Hallec#1002 
+**8:** @iRedPanda#9109
+
+•|• **__Game 128__** •|•
+**1:** @℗ • Jacko Vidal 
+**2 and 3 | Tied**
+    @Asura
+    @emt409 
+**4:** @Awptown Funk 
+**5:** @Cachirulo 
+**6:** @LimitedMelon
+
+•|• **__Game 129__** •|•
+1: @114
+2: @ruphone
+3: @Bubbles#6428 
+4: @-DI- Pako
+5: @mental turtle
+6: @molle the supreme
+
+•|• **__Game 130__** •|•
+1: @GekonS 
+2: @℗ • Jacko Vidal 
+3: @jaximus 
+4: @Asura 
+5: @Don DiZZy 
+6: @Argieus
